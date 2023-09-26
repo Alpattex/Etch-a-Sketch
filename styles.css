@@ -5,7 +5,6 @@
     grid-template-rows: repeat(16, 1fr);
     /* to create 16 rows (self explanatory) */
     gap: 2px;
-    /* to create gap between grid items */
     width: 400px;
     height: 400px;
 }
