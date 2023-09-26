@@ -20,3 +20,10 @@ reset.addEventListener('click', function () {
     // Clear the grid and reset colors to default
     // ...
 });
+
+const rgb = document.querySelector('#rgb');
+
+rgb.addEventListener('click', function () {
+    // Implement random color hover effect
+    // ...
+});
