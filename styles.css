@@ -8,3 +8,9 @@
     width: 400px;
     height: 400px;
 }
+
+.grid-item {
+    width: 100%;
+    padding-top: 100%;
+    background-color: #ccc;
+}
