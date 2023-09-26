@@ -13,3 +13,10 @@ const screenVal = document.querySelector('.value');
 
 slider.addEventListener('input', function () {
 });
+
+const reset = document.querySelector('#reset');
+
+reset.addEventListener('click', function () {
+    // Clear the grid and reset colors to default
+    // ...
+});
