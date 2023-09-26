@@ -1,16 +1,7 @@
 .grid-container {
     display: grid;
-    grid-template-columns: repeat(16,1fr);
-    /* to create 16 columns */
-    grid-template-rows: repeat(16, 1fr);
-    /* to create 16 rows (self explanatory) */
+    flex-wrap: wrap;
     gap: 2px;
-    width: 400px;
-    height: 400px;
-}
-
-.grid-item {
-    width: 100%;
-    padding-top: 100%;
-    background-color: #ccc;
+    width: 800px;
+    height: 800px;
 }
