@@ -7,3 +7,9 @@ createGrid = () => {
 };
 
 createGrid();
+
+const slider = document.querySelector('#slider');
+const screenVal = document.querySelector('.value');
+
+slider.addEventListener('input', function () {
+});
