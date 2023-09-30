@@ -24,11 +24,11 @@ h1{
     justify-content: space-evenly;
 }
 
-button{
+button {
     width: 80px;
     font-size: 30px;
     background-color: white;
-    box-shadow: 5px 5px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
     outline: none;
 }
 
@@ -76,6 +76,7 @@ button:active{
 }
 
 #slider {
+    appearance: none; 
     -webkit-appearance: none;
     background: linear-gradient(to right, #ff8a00, #da1b60); /* Gradient background */
     outline: none;
@@ -119,7 +120,7 @@ button:active{
     height: 575px;
     width: 575px;
     background-color: gray;
-    box-shadow: 10px 10px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2); 
 }
 
 .cell{
