@@ -1,4 +1,5 @@
 # Etch-a-Sketch
+
 An interactive web application that allows you to create colorful drawings on a grid.
 
 ## Table of Contents
@@ -30,6 +31,7 @@ The Etch-a-Sketch project is a web-based drawing application inspired by the cla
 2. Use the slider to adjust the grid size to your preference.
 
 3. Choose a drawing mode:
+
    - **Black**: Draw with black color.
    - **RGB**: Draw with random colors.
    - **Custom Color**: Pick a custom color.
